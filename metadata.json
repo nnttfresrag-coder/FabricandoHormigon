@@ -1,0 +1,5 @@
+{
+  "name": "Simulador de Fabricación de Hormigón",
+  "description": "Simulador interactivo para fabricar hormigón controlando proporciones, triturado de gravilla y proceso de fraguado.",
+  "requestFramePermissions": []
+}
